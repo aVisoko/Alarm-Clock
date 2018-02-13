@@ -4,5 +4,5 @@
 In class Use Case Diagram
 
 
-![Use Case Diagram](Alarm-Clock/useCaseDiagram.jpg "Use Case Diagram")
+![Use Case Diagram](https://github.com/aVisoko/Alarm-Clock/useCaseDiagram.jpg "Use Case Diagram")
 
